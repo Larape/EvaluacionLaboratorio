@@ -1,0 +1,72 @@
+.image{
+    float: left;
+}
+body{
+    background-image: url(./imagenes/fondo.jpg);
+    background-size: 1600px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+nav ul li{
+    text-align: center;
+    font-size: 40px;
+    align-items: normal;
+    display: inline;
+    
+}
+
+nav ul{
+    margin: 0 auto;
+    padding: 0;
+}
+.taj{
+    float: left;
+    padding: 20px;
+}
+.tajtexto{
+    text-align: justify;
+    margin: 0 auto;
+    padding: 40 px;
+}
+.machu{
+    float: right;
+    padding: 20px;
+}
+.textomachu{
+    text-align: justify;
+    margin: 0 auto;
+    padding: 20px;
+}
+.footer{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+.footer-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+.footer-menu li {
+    margin-right: 15px;
+  }
+  h1{
+    font-size: 40px;
+    text-shadow: 3px 3px 2px beige;
+  }
+  .videito{
+    float: left;
+    padding: 40 px;
+  }
+.galeria{
+    display: flex;
+    justify-content: center;
+}
+.galeria img{
+    width: 200px;
+    margin: 5px;
+ 
+}
